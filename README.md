@@ -1,4 +1,4 @@
-I'm a software developer with a user-focused mindset and a passion for learning. After several years fixing issues and anticipating needs in the hospitality industry, I traded one form of creative problem solving for another and embarked on a new career in tech.
+## I'm a software developer with a user-focused mindset and a passion for learning. After several years fixing issues and anticipating needs in the hospitality industry, I traded one form of creative problem solving for another and embarked on a new career in tech.
 
 <!--
 **kwohl/kwohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
