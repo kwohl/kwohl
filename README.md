@@ -14,8 +14,8 @@
 
 <div class="contact">
 
-- ![linkedIn](https://image.flaticon.com/icons/png/512/174/174857.png) [LinkedIn](https://www.linkedin.com/in/katie-wohl/)  
-- ![email](https://www.freepngimg.com/download/gmail/66572-google-icons-computer-logo-email-gmail.png) <a href="mailto: ktwohl@gmail.com" >Email</a> 
+- <img height="15px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /> [LinkedIn](https://www.linkedin.com/in/katie-wohl/)  
+- <img height="15px" src="https://www.freepngimg.com/download/gmail/66572-google-icons-computer-logo-email-gmail.png" /> <a href="mailto: ktwohl@gmail.com" >Email</a> 
 
 </div>
 
