@@ -10,7 +10,7 @@
 
 #
 
-### Contact
+<!-- ### Contact -->
 
 <div class="contact">
 
